@@ -1,0 +1,5 @@
+{
+  "name": "WikiVector Explorer",
+  "description": "A semantic discovery tool for the Wikidata Knowledge Graph, utilizing Gemini to bridge the gap between natural language and structured vector-based entity search.",
+  "requestFramePermissions": []
+}
